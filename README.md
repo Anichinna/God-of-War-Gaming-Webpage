@@ -1,2 +1,2 @@
 # God-of-War-Gaming-Webpage
-HTML,CSS &amp; BOOTSTRAP
+HTML,CSS &amp; BOOTSTRAP & JAVASCRIPT Validatsion
